@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:35:50.255610
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:34
 #+TITLE: 六門陀羅尼經
 #+PROPERTY: CBETA_ID T21n1360
 #+PROPERTY: ID KR6j0590
